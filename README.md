@@ -10,7 +10,7 @@
 
 ## Data Science Projects
 
-### [Sales Predictions for a Drugstore Chain](https://github.com/marianaborgal/P002_Sales_Predictions_Drugstore)
+### [Sales Predictions for a Drugstore Chain](add link)
 * **Business Problem:** Rossmann is a pharmacy chain that operates over 3,000 stores in 7 European countries. The stores are going to be renovated and the CFO needs to know how much can be invested in each one of them.
 * **Solution:** Develop a prediction model for sales and a Telegram bot that returns sales predictions given a store id number.
 * **Conclusion:** The model developed predicts a gross income of $286.69 MM in the next 6 weeks for the stores available, where the best and worst case scenarios results on $313.65 MM and $259.73 MM, respectively. 
